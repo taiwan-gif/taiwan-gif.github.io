@@ -28,7 +28,7 @@
     <div class="blink">⚠ 警告！裝置安全性遭破壞！</div>
     <div id="fakeInfo"></div>
     <div class="info">
-        （）<br>
+        （loading）<br>
         <small></small>
     </div>
 <script>
