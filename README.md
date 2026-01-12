@@ -28,11 +28,10 @@
     <div class="blink">⚠ 警告！裝置安全性遭破壞！</div>
     <div id="fakeInfo"></div>
     <div class="info">
-        （此為安全測試模擬頁面，無實際攻擊行為）<br>
-        <small>關閉此分頁即可</small>
+        （）<br>
+        <small></small>
     </div>
-
-    <script>
+<script>
         // 僅顯示模擬訊息，不收集真實資料
         const fakeMessages = [
             "偵測到資料外傳...",
@@ -58,7 +57,3 @@
         console.log('- 使用者代理:', navigator.userAgent);
         console.log('- 螢幕尺寸:', screen.width + 'x' + screen.height);
         console.log('- 語言:', navigator.language);
-        // 這些是瀏覽器公開資訊，所有網站都能取得
-    </script>
-</body>
-</html>
