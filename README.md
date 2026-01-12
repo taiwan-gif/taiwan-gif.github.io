@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>安全測試頁面</title>
+    <title>资料</title>
     <style>
         body {
             background: black;
